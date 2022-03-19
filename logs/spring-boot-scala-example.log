@@ -1,0 +1,153 @@
+2022-03-12 17:36:58.024  INFO 22736 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 22736 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 17:36:58.026  INFO 22736 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : No active profile set, falling back to default profiles: default
+2022-03-12 17:36:59.002  INFO 22736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-03-12 17:36:59.011  INFO 22736 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 17:36:59.012  INFO 22736 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 17:36:59.096  INFO 22736 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 17:36:59.096  INFO 22736 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1036 ms
+2022-03-12 17:36:59.518  INFO 22736 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 17:36:59.587  INFO 22736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-03-12 17:36:59.597  INFO 22736 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Started pt.homefinance.backend.boot.SpringBootApp.package. in 1.94 seconds (JVM running for 2.264)
+2022-03-12 17:37:38.806  INFO 13276 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 13276 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 17:37:38.808  INFO 13276 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : No active profile set, falling back to default profiles: default
+2022-03-12 17:37:39.797  INFO 13276 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 17:37:39.807  INFO 13276 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 17:37:39.807  INFO 13276 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 17:37:39.888  INFO 13276 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 17:37:39.888  INFO 13276 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1045 ms
+2022-03-12 17:37:40.322  INFO 13276 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 17:37:40.413  INFO 13276 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 17:37:40.427  INFO 13276 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Started pt.homefinance.backend.boot.SpringBootApp.package. in 1.977 seconds (JVM running for 2.316)
+2022-03-12 17:37:40.533  INFO 13276 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 17:37:40.533  INFO 13276 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 17:37:40.534  INFO 13276 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-12 17:40:43.522  INFO 24264 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 24264 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 17:40:43.524  INFO 24264 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : No active profile set, falling back to default profiles: default
+2022-03-12 17:40:44.650  INFO 24264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 17:40:44.660  INFO 24264 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 17:40:44.661  INFO 24264 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 17:40:44.743  INFO 24264 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 17:40:44.743  INFO 24264 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1185 ms
+2022-03-12 17:40:45.173  INFO 24264 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 17:40:45.245  INFO 24264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 17:40:45.257  INFO 24264 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Started pt.homefinance.backend.boot.SpringBootApp.package. in 2.102 seconds (JVM running for 2.427)
+2022-03-12 17:40:53.859  INFO 24264 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 17:40:53.860  INFO 24264 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 17:40:53.862  INFO 24264 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-03-12 17:49:23.469  INFO 27264 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 27264 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 17:49:23.471  INFO 27264 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : No active profile set, falling back to default profiles: default
+2022-03-12 17:49:24.459  INFO 27264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 17:49:24.468  INFO 27264 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 17:49:24.469  INFO 27264 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 17:49:24.549  INFO 27264 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 17:49:24.550  INFO 27264 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1046 ms
+2022-03-12 17:49:24.982  INFO 27264 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 17:49:25.067  INFO 27264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 17:49:25.082  INFO 27264 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Started pt.homefinance.backend.boot.SpringBootApp.package. in 1.982 seconds (JVM running for 2.347)
+2022-03-12 17:49:37.302  INFO 27264 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 17:49:37.303  INFO 27264 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 17:49:37.304  INFO 27264 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-12 18:12:34.173  INFO 4152 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 4152 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 18:12:34.175  INFO 4152 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : No active profile set, falling back to default profiles: default
+2022-03-12 18:12:35.190  INFO 4152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 18:12:35.200  INFO 4152 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 18:12:35.200  INFO 4152 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 18:12:35.283  INFO 4152 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 18:12:35.284  INFO 4152 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1072 ms
+2022-03-12 18:12:35.729  INFO 4152 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 18:12:35.807  INFO 4152 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 18:12:35.818  INFO 4152 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Started pt.homefinance.backend.boot.SpringBootApp.package. in 2.01 seconds (JVM running for 2.338)
+2022-03-12 18:14:46.122  INFO 4152 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 18:14:46.122  INFO 4152 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 18:14:46.124  INFO 4152 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-03-12 18:15:12.219  INFO 8172 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 8172 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 18:15:12.221  INFO 8172 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : No active profile set, falling back to default profiles: default
+2022-03-12 18:15:13.220  INFO 8172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 18:15:13.229  INFO 8172 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 18:15:13.230  INFO 8172 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 18:15:13.313  INFO 8172 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 18:15:13.313  INFO 8172 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1056 ms
+2022-03-12 18:15:13.743  INFO 8172 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 18:15:13.821  INFO 8172 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 18:15:13.831  INFO 8172 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Started pt.homefinance.backend.boot.SpringBootApp.package. in 1.975 seconds (JVM running for 2.313)
+2022-03-12 18:15:39.619  INFO 8172 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 18:15:39.620  INFO 8172 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 18:15:39.622  INFO 8172 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-03-12 18:22:32.983  INFO 26604 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 26604 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 18:22:32.986  INFO 26604 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : No active profile set, falling back to default profiles: default
+2022-03-12 18:22:34.079  INFO 26604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 18:22:34.089  INFO 26604 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 18:22:34.089  INFO 26604 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 18:22:34.175  INFO 26604 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 18:22:34.175  INFO 26604 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1144 ms
+2022-03-12 18:22:34.635  INFO 26604 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 18:22:34.715  INFO 26604 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 18:22:34.726  INFO 26604 --- [main] p.h.backend.boot.pt.homefinance.backend.boot.SpringBootApp$package$  : Started pt.homefinance.backend.boot.SpringBootApp.package. in 2.13 seconds (JVM running for 2.466)
+2022-03-12 18:22:48.291  INFO 26604 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 18:22:48.292  INFO 26604 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 18:22:48.293  INFO 26604 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-12 18:37:30.354  INFO 28056 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 28056 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 18:37:30.356  INFO 28056 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : No active profile set, falling back to default profiles: default
+2022-03-12 18:37:31.369  INFO 28056 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 18:37:31.377  INFO 28056 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 18:37:31.378  INFO 28056 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 18:37:31.472  INFO 28056 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 18:37:31.472  INFO 28056 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1081 ms
+2022-03-12 18:37:31.984  INFO 28056 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 18:37:32.023  INFO 28056 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 18:37:32.036  INFO 28056 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Started pt.homefinance.backend.boot.SpringBootApp.package. in 2.048 seconds (JVM running for 2.403)
+2022-03-12 18:37:50.999  INFO 28056 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 18:37:51.000  INFO 28056 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 18:37:51.001  INFO 28056 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-12 18:46:57.779  INFO 10860 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 10860 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 18:46:57.781  INFO 10860 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : No active profile set, falling back to default profiles: default
+2022-03-12 18:46:58.877  INFO 10860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 18:46:58.886  INFO 10860 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 18:46:58.887  INFO 10860 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 18:46:58.983  INFO 10860 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 18:46:58.984  INFO 10860 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1168 ms
+2022-03-12 18:46:59.507  INFO 10860 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 18:46:59.540  INFO 10860 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 18:46:59.550  INFO 10860 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Started pt.homefinance.backend.boot.SpringBootApp.package. in 2.183 seconds (JVM running for 2.611)
+2022-03-12 18:47:09.255  INFO 10860 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 18:47:09.256  INFO 10860 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 18:47:09.258  INFO 10860 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2022-03-12 18:52:02.049  INFO 7980 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 7980 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 18:52:02.051  INFO 7980 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : No active profile set, falling back to default profiles: default
+2022-03-12 18:52:03.094  INFO 7980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 18:52:03.105  INFO 7980 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 18:52:03.105  INFO 7980 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 18:52:03.203  INFO 7980 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 18:52:03.203  INFO 7980 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1117 ms
+2022-03-12 18:52:03.704  INFO 7980 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 18:52:03.738  INFO 7980 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 18:52:03.750  INFO 7980 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Started pt.homefinance.backend.boot.SpringBootApp.package. in 2.078 seconds (JVM running for 2.443)
+2022-03-12 18:52:40.278  INFO 7980 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 18:52:40.278  INFO 7980 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 18:52:40.279  INFO 7980 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-12 18:54:53.084  INFO 28264 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 28264 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 18:54:53.087  INFO 28264 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : No active profile set, falling back to default profiles: default
+2022-03-12 18:54:54.121  INFO 28264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 18:54:54.130  INFO 28264 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 18:54:54.131  INFO 28264 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 18:54:54.224  INFO 28264 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 18:54:54.225  INFO 28264 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1101 ms
+2022-03-12 18:54:54.746  INFO 28264 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 18:54:54.778  INFO 28264 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 18:54:54.788  INFO 28264 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Started pt.homefinance.backend.boot.SpringBootApp.package. in 2.073 seconds (JVM running for 2.436)
+2022-03-12 18:57:41.133  INFO 28264 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 18:57:41.134  INFO 28264 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 18:57:41.135  INFO 28264 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-12 19:01:01.893  INFO 16680 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Starting pt.homefinance.backend.boot.SpringBootApp.package. using Java 1.8.0_202 on XP2101202240001 with PID 16680 (C:\PersonalFinance\backend\target\classes started by JoãoBorralho in C:\PersonalFinance\backend)
+2022-03-12 19:01:01.895  INFO 16680 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : No active profile set, falling back to default profiles: default
+2022-03-12 19:01:03.211  INFO 16680 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-03-12 19:01:03.223  INFO 16680 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-03-12 19:01:03.223  INFO 16680 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.52]
+2022-03-12 19:01:03.322  INFO 16680 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-03-12 19:01:03.322  INFO 16680 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1389 ms
+2022-03-12 19:01:03.940  INFO 16680 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 15 endpoint(s) beneath base path '/actuator'
+2022-03-12 19:01:04.163  INFO 16680 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-12 19:01:04.251  INFO 16680 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-12 19:01:04.251  INFO 16680 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-03-12 19:01:04.252  INFO 16680 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-03-12 19:01:04.598  INFO 16680 --- [main] p.h.backend.pt.homefinance.backend.boot.SpringBootApp$package$       : Started pt.homefinance.backend.boot.SpringBootApp.package. in 3.095 seconds (JVM running for 3.471)
