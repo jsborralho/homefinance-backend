@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMethod.GET
 
 @RestController
 class TestController {
-  @Value("${application.name}")
+  @Value("${value}")
   val appName: String = null
 
   @RequestMapping(path = Array("/test"), method = Array(GET))

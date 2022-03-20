@@ -1,4 +1,4 @@
-package pt.homefinance.backend.boot.configuration
+package pt.homefinance.backend.boot
 
 import org.springframework.context.annotation
 import org.springframework.context.annotation.{Bean, Configuration}
@@ -8,7 +8,6 @@ import springfox.documentation.spi.DocumentationType
 import springfox.documentation.spring.web.plugins.Docket
 import springfox.documentation.swagger2.annotations.EnableSwagger2
 
-
 @Configuration
 @EnableSwagger2
 class SwaggerConfig {
@@ -17,7 +16,7 @@ class SwaggerConfig {
     new Docket(DocumentationType.SWAGGER_2)
       .select
       .apis(RequestHandlerSelectors.any())
-      .paths(PathSelectors.any)
+      .paths(PathSelectors.ant("/test"))
       .build
   }
 }
