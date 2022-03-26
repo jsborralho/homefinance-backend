@@ -1,14 +1,16 @@
 package pt.homefinance.backend.models
 
 import org.springframework.data.mongodb.core.mapping.{Document, Field}
+import org.springframework.format.annotation.DateTimeFormat
 
+import java.util
 import scala.beans.BeanProperty
 
 @Document("Home")
 class Home {
 
   @BeanProperty
-  var date: String = _
+  var date: util.Date = _
   @BeanProperty
   var category: String = _
   @Field("sub-category")
@@ -18,14 +20,3 @@ class Home {
   var value: Float = _
 }
 
-object Home {
-  def apply(date: String, category: String, subCategory: String, value: Float): Home = {
-    val home = new Home
-    home.date = date
-    home.category = category
-    home.subCategory = subCategory
-    home.value = value
-
-    home
-  }
-}
