@@ -5,6 +5,12 @@ application:
 value: "test"
 server.port: 8080
 
+spring:
+  data:
+    mongodb:
+      uri: "mongodb://test:password@localhost/PersonalFinance"
+      database: PersonalFinance
+
 management:
   endpoints:
     enabled-by-default: true
