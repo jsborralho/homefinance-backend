@@ -10,6 +10,8 @@ spring:
     mongodb:
       uri: "mongodb://test:password@localhost/PersonalFinance"
       database: PersonalFinance
+  jpa:
+    show-sql: true
 
 management:
   endpoints:

@@ -14,6 +14,7 @@ trait HomeRepository extends MongoRepository[Home, String]{
   def findHomeByDateBetween(startDate: Date, endDate: Date): Array[Home]
 
   def findHomeByDateBetweenAndCategory(startDate: Date, endDate: Date, category: String): Array[Home]
+  
 
 
 }

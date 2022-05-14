@@ -52,7 +52,12 @@ class Controller(@Autowired homeRepository: HomeRepository) {
   @GetMapping(path = Array("/byDate"), produces = Array(MediaType.APPLICATION_JSON_VALUE))
   def getFinancesByDate(@RequestParam(required = false) startDate: Date,
                         @RequestParam(required = false) endDate: Date): Array[Home] = {
-    var list: Array[Home] = homeRepository.findHomeByDateBetween(startDate, endDate)
+    val list: Array[Home] =
+      if(Option(startDate).isEmpty && Option(endDate).isEmpty)
+        homeRepository.findHomeByDateBetween(new Date(Long.MinValue), new Date(Long.MaxValue))
+      else
+        homeRepository.findHomeByDateBetween(startDate, endDate)
+
     list
   }
 }
